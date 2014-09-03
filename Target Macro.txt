@@ -1,0 +1,4 @@
+/cleartarget
+/tar Manifestation of Corruption
+/tar [dead][noexists] Essence of Corruption
+/tar [dead][noexists] Amalgam of Corruption
